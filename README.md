@@ -4,4 +4,4 @@ My first repository
 
 Hola, mi nombre es Juan
 
-Me gusta :coffee: and :pizza:
+Me gusta el :coffee: y la :pizza:
